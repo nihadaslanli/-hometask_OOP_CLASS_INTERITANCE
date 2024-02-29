@@ -20,7 +20,23 @@
                 //    Console.WriteLine("username ve password sehvdir.");
                 //}
                 #endregion
-
+                #region task2
+                facebooksignup signup = new facebooksignup();
+               signup.Usernameadmin = "name1";
+                signup.Usersurname = "surname";
+                signup.Usermailadress = "ajaaks@gmail.com";
+                signup.Userpassword = "password";
+                signup.Usergender = "male||famale";
+                //signup.Userbirthaday="25052005"
+                signup.Userphonenumber = "+99499999";
+                Console.WriteLine(signup.Usernameadmin);
+                Console.WriteLine(signup.Usersurname);
+                Console.WriteLine(signup.Usermailadress);
+                Console.WriteLine(signup.Userpassword);
+                //Convert.ToDateTime(Console.WriteLine( signup.Userbirthaday));
+                Console.WriteLine(signup.Usergender);
+                Console.WriteLine(signup.Userphonenumber);
+                #endregion
 
 
 

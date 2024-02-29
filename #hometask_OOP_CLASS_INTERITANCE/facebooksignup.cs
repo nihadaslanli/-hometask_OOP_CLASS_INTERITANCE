@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace _hometask_OOP_CLASS_INTERITANCE
 {
-    internal class Account
+    internal class facebooksignup
     {
-
         public string Usernameadmin;
         public string Usersurname;
         public string Usermailadress;
@@ -18,9 +17,5 @@ namespace _hometask_OOP_CLASS_INTERITANCE
         public string Usergender;
 
 
-        public void Gmail()
-        {
-            Console.WriteLine(Usermailadress + "" + Userpassword);
-        }
     }
 }
