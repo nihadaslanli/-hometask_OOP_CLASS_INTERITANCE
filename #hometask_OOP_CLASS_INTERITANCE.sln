@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "#hometask_OOP_CLASS_INTERITANCE", "#hometask_OOP_CLASS_INTERITANCE\#hometask_OOP_CLASS_INTERITANCE.csproj", "{4CB497F6-3080-4159-8985-E84419CC7493}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CB497F6-3080-4159-8985-E84419CC7493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CB497F6-3080-4159-8985-E84419CC7493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CB497F6-3080-4159-8985-E84419CC7493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CB497F6-3080-4159-8985-E84419CC7493}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF0F2FF3-2FDB-4205-85F8-C76DBBC0CE6C}
+	EndGlobalSection
+EndGlobal
