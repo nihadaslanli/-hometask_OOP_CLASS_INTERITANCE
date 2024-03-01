@@ -22,20 +22,26 @@
                 #endregion
                 #region task2
                 facebooksignup signup = new facebooksignup();
-               signup.Usernameadmin = "name1";
-                signup.Usersurname = "surname";
-                signup.Usermailadress = "ajaaks@gmail.com";
-                signup.Userpassword = "password";
+                Console.WriteLine("username yaz:");
+                signup.Usernameadmin = Console.ReadLine();
+                Console.WriteLine("surname yaz:");
+                signup.Usersurname = Console.ReadLine();
+                Console.WriteLine("email adressi yaz:")
+                signup.Usermailadress = Console.ReadLine();
+                Console.WriteLine("password-u yaz:");
+                signup.Userpassword =Console.ReadLine();
+                Console.WriteLine("gender-i qeyd edin:");
                 signup.Usergender = "male||famale";
                 //signup.Userbirthaday="25052005"
+                Console.WriteLine("phone number-i yaz:");
                 signup.Userphonenumber = "+99499999";
-                Console.WriteLine(signup.Usernameadmin);
-                Console.WriteLine(signup.Usersurname);
-                Console.WriteLine(signup.Usermailadress);
-                Console.WriteLine(signup.Userpassword);
-                //Convert.ToDateTime(Console.WriteLine( signup.Userbirthaday));
-                Console.WriteLine(signup.Usergender);
-                Console.WriteLine(signup.Userphonenumber);
+                //Console.WriteLine(signup.Usernameadmin);
+                //Console.WriteLine(signup.Usersurname);
+                //Console.WriteLine(signup.Usermailadress);
+                //Console.WriteLine(signup.Userpassword);
+                ////Convert.ToDateTime(Console.WriteLine( signup.Userbirthaday));
+                //Console.WriteLine(signup.Usergender);
+                //Console.WriteLine(signup.Userphonenumber);
                 #endregion
 
 
