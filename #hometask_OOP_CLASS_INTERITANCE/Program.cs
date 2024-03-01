@@ -26,15 +26,15 @@
                 signup.Usernameadmin = Console.ReadLine();
                 Console.WriteLine("surname yaz:");
                 signup.Usersurname = Console.ReadLine();
-                Console.WriteLine("email adressi yaz:")
+                Console.WriteLine("email adressi yaz:");
                 signup.Usermailadress = Console.ReadLine();
                 Console.WriteLine("password-u yaz:");
                 signup.Userpassword =Console.ReadLine();
-                Console.WriteLine("gender-i qeyd edin:");
-                signup.Usergender = "male||famale";
+                Console.WriteLine("gender-i qeyd edin:male||famale");
+                signup.Usergender = Console.ReadLine();
                 //signup.Userbirthaday="25052005"
                 Console.WriteLine("phone number-i yaz:");
-                signup.Userphonenumber = "+99499999";
+                signup.Userphonenumber = Console.ReadLine();
                 //Console.WriteLine(signup.Usernameadmin);
                 //Console.WriteLine(signup.Usersurname);
                 //Console.WriteLine(signup.Usermailadress);
