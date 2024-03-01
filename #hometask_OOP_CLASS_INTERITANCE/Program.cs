@@ -35,13 +35,7 @@
                 //signup.Userbirthaday="25052005"
                 Console.WriteLine("phone number-i yaz:");
                 signup.Userphonenumber = Console.ReadLine();
-                //Console.WriteLine(signup.Usernameadmin);
-                //Console.WriteLine(signup.Usersurname);
-                //Console.WriteLine(signup.Usermailadress);
-                //Console.WriteLine(signup.Userpassword);
-                ////Convert.ToDateTime(Console.WriteLine( signup.Userbirthaday));
-                //Console.WriteLine(signup.Usergender);
-                //Console.WriteLine(signup.Userphonenumber);
+                
                 #endregion
 
 
